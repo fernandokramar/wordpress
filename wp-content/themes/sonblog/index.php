@@ -1,0 +1,1 @@
+blog school of neta
