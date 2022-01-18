@@ -1,8 +1,8 @@
 <?php get_header(); ?>
-<?php //get_header( 'personalizado' ); ?>
+
 
 <div class="container">
-    <h2>Post Recentes </h2>
+    <h2>Resultado de posts por <?php echo get_search_query(); ?> </h2>
     <div class="row">
         <div class="col-md-9">
 			<?php

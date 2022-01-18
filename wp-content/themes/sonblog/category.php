@@ -2,7 +2,7 @@
 <?php //get_header( 'personalizado' ); ?>
 
 <div class="container">
-    <h2>Post Recentes </h2>
+    <h2>Post da categoria - <?php single_cat_title(); ?> </h2>
     <div class="row">
         <div class="col-md-9">
 			<?php
